@@ -1,0 +1,25 @@
+{
+  "name": "cfs-logger",
+  "version": "1.0.0",
+  "description": "An opinionated console log Winston logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colestrode/cfs-logger.git"
+  },
+  "author": "Cole Furfaro-Strode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colestrode/cfs-logger/issues"
+  },
+  "homepage": "https://github.com/colestrode/cfs-logger#readme",
+  "dependencies": {
+    "winston": "^2.3.0"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0"
+  }
+}
